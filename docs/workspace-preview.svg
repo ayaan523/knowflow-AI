@@ -1,0 +1,33 @@
+<svg width="1200" height="650" viewBox="0 0 1200 650" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="650" rx="18" fill="#F7F8FB"/>
+  <rect width="245" height="650" rx="18" fill="#20253D"/>
+  <rect x="28" y="28" width="30" height="30" rx="8" fill="#7669E6"/>
+  <path d="M43 37l2 6 6 2-6 2-2 6-2-6-6-2 6-2 2-6Z" fill="white"/>
+  <text x="69" y="51" fill="white" font-family="Arial" font-size="20" font-weight="700">KnowFlow <tspan fill="#958BF0">AI</tspan></text>
+  <text x="30" y="103" fill="#727D99" font-family="Arial" font-size="10" letter-spacing="1.5">WORKSPACE</text>
+  <rect x="25" y="120" width="195" height="38" rx="7" fill="#7669E6"/>
+  <text x="58" y="144" fill="white" font-family="Arial" font-size="12">+ New conversation</text>
+  <text x="30" y="197" fill="#727D99" font-family="Arial" font-size="10" letter-spacing="1.5">COLLECTIONS</text>
+  <rect x="25" y="213" width="195" height="38" rx="6" fill="#303754"/>
+  <text x="57" y="237" fill="#D3D8E5" font-family="Arial" font-size="12">All documents</text>
+  <text x="30" y="280" fill="#AEB6CA" font-family="Arial" font-size="12">▣  Upload document</text>
+  <text x="30" y="338" fill="#727D99" font-family="Arial" font-size="10" letter-spacing="1.5">RECENT CHATS</text>
+  <text x="30" y="370" fill="#AEB6CA" font-family="Arial" font-size="11">▢  Product brief summary</text>
+  <text x="30" y="399" fill="#AEB6CA" font-family="Arial" font-size="11">▢  Q3 planning notes</text>
+  <rect x="30" y="570" width="80" height="24" rx="12" fill="#303754"/>
+  <circle cx="43" cy="582" r="3" fill="#E3A452"/><text x="52" y="586" fill="#C1C7D6" font-family="Arial" font-size="10">Demo mode</text>
+  <rect x="245" width="955" height="72" fill="white"/><line x1="245" y1="71" x2="1200" y2="71" stroke="#E6E8EE"/>
+  <text x="282" y="28" fill="#9AA3B4" font-family="Arial" font-size="9" letter-spacing="1.2">WORKSPACE /</text>
+  <text x="282" y="53" fill="#20283B" font-family="Arial" font-size="18" font-weight="700">Document workspace</text>
+  <circle cx="1010" cy="35" r="4" fill="#45B38F"/><text x="1022" y="39" fill="#798398" font-family="Arial" font-size="11">Demo mode</text>
+  <rect x="282" y="101" width="305" height="500" rx="11" fill="white" stroke="#E5E8EE"/>
+  <text x="304" y="132" fill="#9CA5B6" font-family="Arial" font-size="9" letter-spacing="1">YOUR KNOWLEDGE BASE</text><text x="304" y="158" fill="#20283B" font-family="Arial" font-size="18" font-weight="700">Documents</text>
+  <rect x="466" y="122" width="98" height="27" rx="6" fill="white" stroke="#E0E3EB"/><text x="480" y="140" fill="#636E83" font-family="Arial" font-size="10">+ Add document</text>
+  <rect x="304" y="184" width="261" height="84" rx="8" fill="#FCFCFE" stroke="#CBD0DD" stroke-dasharray="4 4"/><text x="367" y="219" fill="#616C80" font-family="Arial" font-size="11">Drop files here or <tspan fill="#7669DB">browse</tspan></text><text x="389" y="240" fill="#A3AABA" font-family="Arial" font-size="9">PDF or TXT · up to 10 MB</text>
+  <line x1="304" y1="296" x2="565" y2="296" stroke="#EDF0F4"/><rect x="304" y="313" width="28" height="31" rx="6" fill="#F0EFFD"/><text x="346" y="327" fill="#3C465B" font-family="Arial" font-size="11" font-weight="700">Product-brief.pdf</text><text x="346" y="341" fill="#9AA3B3" font-family="Arial" font-size="9">1.8 MB · 12 pages</text><text x="510" y="333" fill="#36A880" font-family="Arial" font-size="9">● ready</text>
+  <line x1="304" y1="362" x2="565" y2="362" stroke="#EDF0F4"/><rect x="304" y="379" width="28" height="31" rx="6" fill="#F0EFFD"/><text x="346" y="393" fill="#3C465B" font-family="Arial" font-size="11" font-weight="700">Planning-notes.txt</text><text x="346" y="407" fill="#9AA3B3" font-family="Arial" font-size="9">42 KB</text><text x="510" y="399" fill="#36A880" font-family="Arial" font-size="9">● ready</text>
+  <rect x="610" y="101" width="555" height="500" rx="11" fill="white" stroke="#E5E8EE"/><text x="635" y="132" fill="#9CA5B6" font-family="Arial" font-size="9" letter-spacing="1">DOCUMENT Q&amp;A</text><text x="635" y="158" fill="#20283B" font-family="Arial" font-size="18" font-weight="700">Ask your knowledge base</text><rect x="1030" y="122" width="110" height="25" rx="5" fill="#F3F1FF"/><text x="1042" y="138" fill="#786CDC" font-family="Arial" font-size="9">✦ Grounded answers</text>
+  <circle cx="657" cy="239" r="23" fill="#F0EFFE"/><text x="649" y="247" fill="#7669DC" font-family="Arial" font-size="22">✦</text><text x="696" y="231" fill="#344056" font-family="Arial" font-size="17" font-weight="700">Ask anything about your documents</text><text x="696" y="254" fill="#8993A6" font-family="Arial" font-size="11">KnowFlow retrieves relevant passages before answering.</text>
+  <rect x="696" y="278" width="130" height="25" rx="5" fill="white" stroke="#E2E4EC"/><text x="708" y="294" fill="#687388" font-family="Arial" font-size="9">What are the key points?</text>
+  <rect x="635" y="530" width="490" height="38" rx="7" fill="white" stroke="#DFE3EB"/><text x="650" y="554" fill="#A1A9B6" font-family="Arial" font-size="11">Ask a question about your documents...</text><rect x="1081" y="535" width="27" height="28" rx="5" fill="#7669DF"/><path d="m1095 555 0-11m0 0-4 4m4-4 4 4" stroke="white" stroke-width="1.5"/>
+</svg>
